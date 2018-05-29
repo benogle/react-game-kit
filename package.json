@@ -1,5 +1,5 @@
 {
-  "name": "react-game-kit",
+  "name": "@benogle/react-game-kit",
   "version": "1.0.6",
   "description": "Make games with react",
   "main": "lib",
@@ -25,7 +25,7 @@
   },
   "author": "Ken Wheeler",
   "license": "MIT",
-  "repository": "https://github.com/FormidableLabs/react-game-kit",
+  "repository": "https://github.com/benogle/react-game-kit",
   "dependencies": {
     "matter-js": "^0.14.0"
   },
