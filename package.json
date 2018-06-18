@@ -24,7 +24,7 @@
   },
   "author": "Ken Wheeler",
   "license": "MIT",
-  "repository": "https://github.com/benogle/react-game-kit",
+  "repository": "https://github.com/matter-app/react-game-kit",
   "dependencies": {
     "matter-js": "^0.14.0"
   },
