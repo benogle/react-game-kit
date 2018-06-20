@@ -1,5 +1,5 @@
 {
-  "name": "react-game-kit",
+  "name": "@matterapp/react-game-kit",
   "version": "1.0.8",
   "description": "Make games with react",
   "main": "lib",
@@ -20,7 +20,8 @@
     "lint": "eslint src demo *.js",
     "lint-fix": "eslint src demo *.js --fix",
     "umd": "webpack --config webpack.config.umd.js",
-    "version": "npm run clean-build && npm run build && npm run clean-umd && npm run umd"
+    "version": "npm run clean-build && npm run build && npm run clean-umd && npm run umd",
+    "test": "echo \"No tests @matterapp/react-game-kit\""
   },
   "author": "Ken Wheeler",
   "license": "MIT",
